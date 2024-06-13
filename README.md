@@ -1,6 +1,6 @@
 # Dark Ridge, LLC Tech Site.
 
-This is a website for my business (A personal project not hosted by GH Pages).
+This is a client website hosted by Ionos Deploy-Now (in Progress).
 
 ## Status:
 

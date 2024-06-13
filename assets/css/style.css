@@ -7279,6 +7279,7 @@ Contact CSS
 /*================================================
 Coming Soon CSS
 =================================================*/
+
 .coming-soon-area {
   position: relative;
   z-index: 1;
@@ -7472,6 +7473,7 @@ Coming Soon CSS
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
   background: url(../../assets/img/oops-bg.jpg) no-repeat;
+  background-clip: unset;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-size: cover;
